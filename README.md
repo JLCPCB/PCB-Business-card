@@ -6,7 +6,7 @@ Following this guide you will be able to customize the PCB Business card model c
 # Starting from the bottom
 The first and most important information that we must consider is the PCB drawing layers and objects since it is a key when we design a unicolor PCB.
 A PCB has multiple layers and each one of these layers has its own use and importance, for a two copper copper sides PCB we have the following basic layers:
-
+![PCB Layers](PCBlayers.png){:height="700px" width="400px"}
 * TopLayer/BottomLayer: The top side and bottom side of the PCB board, copper layer.
 * TopSilkLayer/BottomSilkLayer: Board silkscreen, screen printing is transforming Ink onto a substrate to draw some texts and logos on the board sides.
 
