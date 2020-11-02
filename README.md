@@ -5,6 +5,8 @@ Following this guide you will be able to customize the PCB Business card model c
 
 # Starting from the bottom
 All along this explanation, we refered to [EasyEDA](http://jlcpcb.com) as our main design tool.
+Before we starting the below explanation you can just skip it all and just get through the design that JLCPCB provides through the following link which is related to a public EasyEDA project and this way you can just update the design by your personal information. Following is the image related to the designed project :
+
 The first and most important information that we must consider is the PCB drawing layers and objects since it is a key when we design a unicolor PCB.
 A PCB has multiple layers and each one of these layers has its own use and importance, our PCB Business card is a two sides PCB so we will focus on the following basic layers:
 <p align="center">
@@ -27,6 +29,7 @@ Basically the card has the following width and height sizes:
 * Board height: 53 mm 
 
 right in the PCB design area, select the board outline layer from *layers and objects* palet and select the *track* tool from the pcb tools palet and start drawing the lines of the board outline relatively to the set size
-
+<p align="center">
+  <img src="rootImages/size.png" width="100%"></p>
 
 
