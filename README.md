@@ -6,7 +6,9 @@ Following this guide you will be able to customize the PCB Business card model c
 # Starting from the bottom
 All along this explanation, we refered to [EasyEDA](http://jlcpcb.com) as our main design tool.
 Before we starting the below explanation you can just skip it all and just get through the design that JLCPCB provides through the following link which is related to a public EasyEDA project and this way you can just update the design by your personal information. Following is the image related to the designed project :
-
+<p align="center">
+  <img src="rootImages/sample.JPG" width="60%"></p>
+  
 The first and most important information that we must consider is the PCB drawing layers and objects since it is a key when we design a unicolor PCB.
 A PCB has multiple layers and each one of these layers has its own use and importance, our PCB Business card is a two sides PCB so we will focus on the following basic layers:
 <p align="center">
@@ -32,4 +34,6 @@ right in the PCB design area, select the board outline layer from *layers and ob
 <p align="center">
   <img src="rootImages/size.png" width="100%"></p>
 
-
+Once you set the baord outline you can start drwing some art shapes and tracks to make a circuit board looking for the design, you can starting by drawing the traces using the top layer (copper) these lines and shapes will be slightly visible under the soldermask layer once you produce the PCB as it shows the below image
+<p align="center">
+  <img src="rootImages/tracks.png" width="100%"></p>
