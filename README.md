@@ -19,5 +19,11 @@ We will create our design based on the handeling of the defined above layers
 # How to start the PCB design 
 As mentioned above, we will refer to [EasyEDA](http://jlcpcb.com) design tool to prepare our PCB design, all what it takes is getting to the EasyEDA designer (step 1) and start a new project that contains a PCB design file (step 2) than it will appear the PCB Design area.
 <p align="center">
-  <img src="rootImages/basicSteps.png" width="60%"></p>
-Here we will start to prerape the PCB board outline relatively to some real dimensions
+  <img src="rootImages/basicSteps.png" width="100%"></p>
+Here we will start to prerape the PCB board outline relatively to some real dimensions.
+Basically the card has the following width and height sizes:
+* Board width: 86.50 mm
+* Board height: 53 mm 
+right in the PCB design area, select the board outline layer from **layers and objects** palet and select the **track** tool from the pcb tools and start drawing the lines of the board outline relatively to the set size
+
+
