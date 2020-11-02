@@ -22,8 +22,11 @@ As mentioned above, we will refer to [EasyEDA](http://jlcpcb.com) design tool to
   <img src="rootImages/basicSteps.png" width="100%"></p>
 Here we will start to prerape the PCB board outline relatively to some real dimensions.
 Basically the card has the following width and height sizes:
+
 * Board width: 86.50 mm
 * Board height: 53 mm 
-right in the PCB design area, select the board outline layer from **layers and objects** palet and select the **track** tool from the pcb tools and start drawing the lines of the board outline relatively to the set size
+
+right in the PCB design area, select the board outline layer from *layers and objects* palet and select the *track* tool from the pcb tools palet and start drawing the lines of the board outline relatively to the set size
+
 
 
