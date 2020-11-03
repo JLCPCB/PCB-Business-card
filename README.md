@@ -37,3 +37,17 @@ right in the PCB design area, select the board outline layer from *layers and ob
 Once you set the baord outline you can start drwing some art shapes and tracks to make a circuit board looking for the design, you can starting by drawing the traces using the top layer (copper) these lines and shapes will be slightly visible under the soldermask layer once you produce the PCB as it shows the below image
 <p align="center">
   <img src="rootImages/tracks.png" width="100%"></p>
+
+Please refer to our design if you want to get inspired or if you want to update it with your information.
+You will find the following fields :
+* Your Name
+* Your profession
+* Your Email
+* Your phone number
+* Your website
+<p align="center">
+  <img src="rootImages/details.png" width="100%"></p>
+  
+Just double click the text and write your details as it shows the following image :
+<p align="center">
+  <img src="rootImages/name.png" width="100%"></p>
