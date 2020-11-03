@@ -68,4 +68,17 @@ Just remember that the silkscreen (top and bottom) is the ink layer where everyt
 If you want to expose the copper that you draw on the top or bottom layer then you need to play a bit with the soldermaskLayer but this time any shape you draw on this layer will be related to a removing of the soldermask from the shape surface.
 Backing to our PCB design, we already uploaded the JLCPCB image on the bottom layer means that we will have the image produced on copper layer but it will be covered by the bottomsolderMaskLayer so we need to copy and place the image (duplicate it at the exact same position) now we have the same image at the same exact position with the same size so all what it takes it to set one as bottomLayer and set the other as bottomsolderMaskLayer and this way we will get copper added and solder mask removed which makes this image exposed as it shows the below image.
 
-![ExposeCopper](/rootImages/expose copper.JPG)
+<p align="center">
+  <img src="rootImages/expose copper.jpg" width="100%"></p>
+  
+You can choose the ENIG surface finish while placing your order, this will add the golden surface looking of your PCB design.
+  
+# Drop a QR code in the Silkscreen layer
+
+Using links drawn on the PCB is not a kind of good or usefull idea because it will be a bit difficult to rewrite the link in someone's browser, so scannable QR codes is much better idea which can be easily scanned from the PCB, JLCPCB has a good precision in terms of silkscreen drawing which makes the QR code visible and scannable.
+All what we need to do is copy the link that you want to add and generate its related QR code, better to be a PNG format. We recommand this [QR code generator](https://www.the-qrcode-generator.com/) to generate the QR code that you need.
+Once you get the PNG image related to you QR code just upload it as we did to upload the previous images but this time set it as silkscreen layer. Do not forget to reverse the image color as it shows the following image.
+
+<p align="center">
+  <img src="rootImages/QRCode.png" width="100%"></p>
+
