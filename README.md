@@ -4,7 +4,7 @@ Printed Circuit Boards (PCB) are used in almost all computers and electronics to
 Following this guide you will be able to customize the PCB Business card model created by JLCPCB and you could update the model with your personnel information like (name, profession, Email etc..). This project guide has the necessary files to help you step by step to produce your own PCB Business card. Please follow the project steps to get a positive result. After finishing your design, you can visit us through our website [JLCPCB](http://jlcpcb.com) to enjoy our special offers.
 
 # Starting from the bottom
-All along this explanation, we refered to [EasyEDA](http://jlcpcb.com) as our main design tool.
+All along this explanation, we refered to [EasyEDA](http://easyeda.com) as our main design tool.
 Before we starting the below explanation you can just skip it all and just get through the design that JLCPCB provides through the following link which is related to a public EasyEDA project and this way you can just update the design by your personal information. Following is the image related to the designed project :
 <p align="center">
   <img src="rootImages/sample.JPG" width="60%"></p>
@@ -56,3 +56,5 @@ The selected layer is the TopLayer (copper), you can write or draw in the bottom
 In our design, we have uploaded our JLCPCB logo as png image and we set it to the bottom copper layer, all what it takes to make the task easier is just hide the TopLayer and keep the bottom layer visible and then move to the PCB tools and select *image* then this will open a new window from where you can browse your computer files to upload the image (please choose an image in PNG format) you can find more details on *how to proparely insert image in PCB editor* through the following link : click [here](https://docs.easyeda.com/en/Import/Import-Image/index.html)
 <p align="center">
   <img src="rootImages/settings.png" width="100%"></p>
+  <p align="center">
+  <img src="rootImages/image.png" width="100%"></p>
