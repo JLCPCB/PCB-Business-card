@@ -68,4 +68,4 @@ Just remember that the silkscreen (top and bottom) is the ink layer where everyt
 If you want to expose the copper that you draw on the top or bottom layer then you need to play a bit with the soldermaskLayer but this time any shape you draw on this layer will be related to a removing of the soldermask from the shape surface.
 Backing to our PCB design, we already uploaded the JLCPCB image on the bottom layer means that we will have the image produced on copper layer but it will be covered by the bottomsolderMaskLayer so we need to copy and place the image (duplicate it at the exact same position) now we have the same image at the same exact position with the same size so all what it takes it to set one as bottomLayer and set the other as bottomsolderMaskLayer and this way we will get copper added and solder mask removed which makes this image exposed as it shows the below image.
 
-![ExposeCopper](/rootImages/expose copper.jpg)
+![ExposeCopper](/rootImages/expose copper.JPG)
