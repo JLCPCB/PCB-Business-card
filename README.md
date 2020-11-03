@@ -53,8 +53,9 @@ Just double click the text and write your details as it shows the following imag
   <img src="rootImages/name.png" width="100%"></p>
 Do the same for all of the required details, and you can even add some additional ones.
 The selected layer is the TopLayer (copper), you can write or draw in the bottom layer as well.
-In our design, we have uploaded our JLCPCB logo as png image and we set it to the bottom copper layer, all what it takes to make the task easier is just hide the TopLayer and keep the bottom layer visible and then move to the PCB tools and select *image* then this will open a new window from where you can browse your computer files to upload the image (please choose an image in PNG format) you can find more details on __how to proparely insert image in PCB editor__ through the following link : click [GitHub](http://github.com)
+In our design, we have uploaded our JLCPCB logo as png image and we set it to the bottom copper layer, all what it takes to make the task easier is just hide the TopLayer and keep the bottom layer visible and then move to the PCB tools and select *image* then this will open a new window from where you can browse your computer files to upload the image (please choose an image in PNG format) you can find more details on __how__ to proparely insert image in PCB editor through the following link : click [GitHub](http://github.com)
+
 <p align="center">
   <img src="rootImages/settings.png" width="100%"></p>
-  <p align="center">
+<p align="center">
   <img src="rootImages/image.png" width="100%"></p>
